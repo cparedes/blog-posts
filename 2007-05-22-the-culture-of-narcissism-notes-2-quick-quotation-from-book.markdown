@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "The Culture of Narcissism: Notes #2, quick quotation from book"
+comments: true
 post_id: "276"
 categories:
 - Human Interaction

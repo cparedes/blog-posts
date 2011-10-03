@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Radiohead: House of Cards"
+comments: true
 post_id: "365"
 categories:
 - Music

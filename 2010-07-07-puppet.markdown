@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Puppet
+comments: true
 post_id: "519"
 categories:
 - Computers

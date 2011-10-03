@@ -1,5 +1,6 @@
 ---
 title: More thoughts on DevOps
+comments: true
 layout: post
 published: true
 date: 

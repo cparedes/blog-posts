@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Thoughts on a multi-OS environment part 2: politics, FUD, and soft skills"
+comments: true
 post_id: "213"
 categories:
 - Computers

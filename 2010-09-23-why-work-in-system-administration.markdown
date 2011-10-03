@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why work in system administration?
+comments: true
 categories:
 - Systems Administration
 date: 2010-09-23 03:10:05

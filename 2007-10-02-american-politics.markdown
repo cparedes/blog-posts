@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: American politics
+comments: true
 post_id: "329"
 categories:
 - Philosophy

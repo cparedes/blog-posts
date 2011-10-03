@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Classes
+comments: true
 post_id: "417"
 categories:
 - Aristotle

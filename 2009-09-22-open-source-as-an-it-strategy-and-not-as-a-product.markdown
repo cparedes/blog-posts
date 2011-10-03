@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Open Source as an IT strategy, and not as a product
+comments: true
 post_id: "449"
 categories:
 - Closed Source

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Levels of humanity
+comments: true
 post_id: "313"
 categories:
 - Human Interaction

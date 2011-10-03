@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Spring quarter classes, and other crap
+comments: true
 post_id: "444"
 categories:
 - Classes

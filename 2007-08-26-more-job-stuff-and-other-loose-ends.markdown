@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: More job stuff, and other loose ends
+comments: true
 post_id: "304"
 categories:
 - Job

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The dumbing down of education and its relation to television
+comments: true
 post_id: "416"
 categories:
 - Education

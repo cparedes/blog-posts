@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Reversing Neil Postman
+comments: true
 post_id: "429"
 categories:
 - Art

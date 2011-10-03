@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Experiences with leading teams
+comments: true
 categories:
 - LOPSA
 - Systems Administration

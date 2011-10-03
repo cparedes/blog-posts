@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The 196-algorithm
+comments: true
 post_id: "264"
 categories:
 - Math

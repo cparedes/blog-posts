@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Tentative Class Schedule for Spring Quarter
+comments: true
 post_id: "262"
 categories:
 - School

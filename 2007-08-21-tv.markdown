@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: TV
+comments: true
 post_id: "296"
 categories:
 - Human Interaction

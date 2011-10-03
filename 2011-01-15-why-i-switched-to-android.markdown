@@ -1,5 +1,6 @@
 ---
 title: Why I switched to Android
+comments: true
 layout: post
 published: true
 categories:

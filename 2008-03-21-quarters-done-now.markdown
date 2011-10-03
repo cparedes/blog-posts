@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Quarter's done.  Now...
+comments: true
 post_id: "427"
 categories:
 - Books

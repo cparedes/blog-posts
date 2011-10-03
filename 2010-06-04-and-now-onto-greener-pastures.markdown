@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: And now, onto greener pastures...
+comments: true
 post_id: "504"
 categories:
 - Computers

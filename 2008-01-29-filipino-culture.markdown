@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: filipino culture.
+comments: true
 post_id: "420"
 categories:
 - Uncategorized

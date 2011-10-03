@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Anxiety about Academics
+comments: true
 post_id: "437"
 categories:
 - Education

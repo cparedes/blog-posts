@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MySQL Replication - master slave replication with multiple R/O masters
+comments: true
 categories:
 - Systems Administration
 - Databases

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The abundance of convenience
+comments: true
 post_id: "335"
 categories:
 - Human Interaction

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New Music Time"
+comments: true
 published: true
 categories:
 - Music

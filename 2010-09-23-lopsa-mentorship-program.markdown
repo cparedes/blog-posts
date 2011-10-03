@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LOPSA Mentorship Program
+comments: true
 categories:
 - LOPSA
 - Systems Administration

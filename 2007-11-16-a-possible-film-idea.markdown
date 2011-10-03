@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: A possible film idea?
+comments: true
 post_id: "351"
 categories:
 - Café Allegro

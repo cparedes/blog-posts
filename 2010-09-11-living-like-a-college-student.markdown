@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Living like a college student"
+comments: true
 published: true
 categories:
 - School

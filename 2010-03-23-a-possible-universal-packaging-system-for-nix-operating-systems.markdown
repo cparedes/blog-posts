@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: A possible universal packaging system for *nix operating systems
+comments: true
 post_id: "66"
 categories:
 - Bsd

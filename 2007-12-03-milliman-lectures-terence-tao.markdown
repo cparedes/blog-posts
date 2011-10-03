@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Milliman Lectures: Terence Tao"
+comments: true
 post_id: "362"
 categories:
 - Math

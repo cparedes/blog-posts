@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Tolstoy Essay
+comments: true
 post_id: "265"
 categories:
 - Human Interaction

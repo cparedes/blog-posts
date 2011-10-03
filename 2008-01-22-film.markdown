@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Film.
+comments: true
 post_id: "419"
 categories:
 - Movies

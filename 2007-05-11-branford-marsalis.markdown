@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Branford Marsalis
+comments: true
 post_id: "271"
 categories:
 - Music

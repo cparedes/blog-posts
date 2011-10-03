@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: What's going on these days
+comments: true
 post_id: "440"
 categories:
 - Arch Linux

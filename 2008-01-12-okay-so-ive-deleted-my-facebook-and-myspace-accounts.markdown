@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Okay, so I've deleted my Facebook and Myspace accounts.
+comments: true
 post_id: "418"
 categories:
 - Computers

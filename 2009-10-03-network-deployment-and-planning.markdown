@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Network Deployment and Planning
+comments: true
 post_id: "215"
 categories:
 - Computers

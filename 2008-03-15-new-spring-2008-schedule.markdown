@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: New Spring 2008 Schedule
+comments: true
 post_id: "426"
 categories:
 - Schedule

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "The focus of IT: to let other people get stuff done"
+comments: true
 post_id: "590"
 categories:
 - Computer Nazi

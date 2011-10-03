@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Sad days
+comments: true
 post_id: "337"
 categories:
 - Music

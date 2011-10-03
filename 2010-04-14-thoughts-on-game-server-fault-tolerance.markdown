@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Thoughts on game server fault tolerance
+comments: true
 post_id: "101"
 categories:
 - Fault Tolerance

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Knuth is a dick.
+comments: true
 post_id: "280"
 categories:
 - Math

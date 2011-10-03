@@ -1,5 +1,6 @@
 ---
 title: Why XDA Developers Forums Suck
+comments: true
 layout: post
 published: true
 categories:

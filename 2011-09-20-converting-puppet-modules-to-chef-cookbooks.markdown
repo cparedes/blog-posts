@@ -1,5 +1,6 @@
 ---
 title: Converting Puppet Modules to Chef Cookbooks
+comments: true
 layout: post
 published: true
 categories:

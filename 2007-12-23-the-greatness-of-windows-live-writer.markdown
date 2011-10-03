@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The greatness of Windows Live Writer
+comments: true
 post_id: "414"
 categories:
 - Blogging

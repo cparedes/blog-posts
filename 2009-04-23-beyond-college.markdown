@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Beyond College?
+comments: true
 post_id: "445"
 categories:
 - Education

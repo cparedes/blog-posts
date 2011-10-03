@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Security 101
+comments: true
 categories:
 - Systems Administration
 date: 2010-10-22 17:12:00

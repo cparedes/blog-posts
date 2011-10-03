@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Sweetness, Summer and (Potential) Autumn classes
+comments: true
 post_id: "270"
 categories:
 - School

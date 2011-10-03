@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Sweet, new computer parts coming in soon
+comments: true
 post_id: "268"
 categories:
 - Computers

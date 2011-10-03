@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick update on everything as of late
+comments: true
 categories:
 - Personal
 - Work

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: School!  And stuff
+comments: true
 post_id: "434"
 categories:
 - Job

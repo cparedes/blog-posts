@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: In Rainbows
+comments: true
 post_id: "328"
 categories:
 - Music

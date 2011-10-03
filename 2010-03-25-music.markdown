@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Music.
+comments: true
 post_id: "73"
 categories:
 - Music

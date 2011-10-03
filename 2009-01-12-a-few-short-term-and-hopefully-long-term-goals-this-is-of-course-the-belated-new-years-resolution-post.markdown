@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "A few short-term (and hopefully long-term) goals: this is, of course, the belated New Years Resolution Post"
+comments: true
 post_id: "441"
 categories:
 - Goals

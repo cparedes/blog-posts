@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Mish mash
+comments: true
 post_id: "305"
 categories:
 - Beer

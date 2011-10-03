@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: HA Clustering
+comments: true
 post_id: "218"
 categories:
 - Computers

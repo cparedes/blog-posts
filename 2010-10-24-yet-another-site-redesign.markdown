@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yet another site redesign
+comments: true
 ---
 
 So, I've decided to cut out all of the distracting fancy stuff and just go

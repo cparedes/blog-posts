@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Smoking
+comments: true
 post_id: "295"
 categories:
 - Personal

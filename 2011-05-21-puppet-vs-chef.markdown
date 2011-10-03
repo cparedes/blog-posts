@@ -1,5 +1,6 @@
 ---
 title: Puppet vs. Chef
+comments: true
 layout: post
 published: true
 categories:

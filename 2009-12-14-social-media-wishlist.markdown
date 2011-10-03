@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Social Media Wishlist
+comments: true
 post_id: "222"
 categories:
 - Computers

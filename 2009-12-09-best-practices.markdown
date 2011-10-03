@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "\"Best Practices\""
+comments: true
 post_id: "221"
 categories:
 - Best Practices

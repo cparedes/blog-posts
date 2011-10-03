@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Breakout from scratch, part I
+comments: true
 post_id: "447"
 categories:
 - Breakout

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: From WordPress to Movable Type
+comments: true
 post_id: "413"
 categories:
 - Website

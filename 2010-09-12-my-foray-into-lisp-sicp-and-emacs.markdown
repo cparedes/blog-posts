@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My foray into Lisp, SICP, and emacs
+comments: true
 date: 2010-09-12 14:40:45
 categories:
 - Lisp

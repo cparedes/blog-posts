@@ -1,5 +1,6 @@
 ---
 title: Modern Log Management and Monitoring
+comments: true
 layout: post
 published: true
 categories:

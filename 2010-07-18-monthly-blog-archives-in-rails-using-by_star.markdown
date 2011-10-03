@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Monthly blog archives in Rails using by_star
+comments: true
 post_id: "631"
 categories:
 - By_star

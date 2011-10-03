@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Okay, this is not so bad
+comments: true
 post_id: "322"
 categories:
 - School

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Graduation
+comments: true
 post_id: "448"
 categories:
 - Graduation

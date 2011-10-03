@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Analytic Feminism
+comments: true
 post_id: "436"
 categories:
 - Philosophy

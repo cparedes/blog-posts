@@ -1,5 +1,6 @@
 ---
 title: Presentation from CasITConf
+comments: true
 layout: post
 published: true
 date: 

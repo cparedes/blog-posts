@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Electronic technology
+comments: true
 post_id: "315"
 categories:
 - Computers

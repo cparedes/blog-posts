@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Dilemma: deciding between three major UNIXES as a desktop"
+comments: true
 post_id: "217"
 categories:
 - Computers

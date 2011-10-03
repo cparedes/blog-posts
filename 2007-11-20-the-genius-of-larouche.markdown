@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The genius of LaRouche
+comments: true
 post_id: "355"
 categories:
 - Math

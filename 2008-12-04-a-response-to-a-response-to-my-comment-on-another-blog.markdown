@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: A response to a response to my comment on another blog
+comments: true
 post_id: "439"
 categories:
 - Analytic Feminism

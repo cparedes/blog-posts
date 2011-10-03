@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Revised Winter Quarter schedule
+comments: true
 post_id: "369"
 categories:
 - Education

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Another week
+comments: true
 post_id: "363"
 categories:
 - Personal

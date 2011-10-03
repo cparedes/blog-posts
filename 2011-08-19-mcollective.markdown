@@ -1,5 +1,6 @@
 ---
 title: mcollective
+comments: true
 layout: post
 published: true
 categories:

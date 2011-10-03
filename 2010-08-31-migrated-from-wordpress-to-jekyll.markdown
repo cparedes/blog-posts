@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Migrated from Wordpress to Jekyll"
+comments: true
 published: true
 categories:
 - Jekyll

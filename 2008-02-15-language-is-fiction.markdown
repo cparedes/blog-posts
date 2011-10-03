@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Language... is fiction?
+comments: true
 post_id: "422"
 categories:
 - Language

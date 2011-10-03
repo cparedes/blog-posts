@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The value of documentation and formal processes
+comments: true
 post_id: "514"
 categories:
 - Automation

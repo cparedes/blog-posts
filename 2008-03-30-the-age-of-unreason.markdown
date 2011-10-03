@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The Age of Unreason
+comments: true
 post_id: "428"
 categories:
 - Philosophy

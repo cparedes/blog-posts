@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UNIX and Literacy
+comments: true
 categories:
 - UNIX
 - Literacy

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Dropped, like a little baby.
+comments: true
 post_id: "285"
 categories:
 - School

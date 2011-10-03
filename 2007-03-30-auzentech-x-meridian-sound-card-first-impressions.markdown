@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Auzentech X-Meridian sound card first impressions
+comments: true
 post_id: "266"
 categories:
 - Computers

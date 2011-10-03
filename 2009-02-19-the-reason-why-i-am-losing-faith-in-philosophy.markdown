@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The reason why I am losing faith in philosophy
+comments: true
 post_id: "443"
 categories:
 - Determinism

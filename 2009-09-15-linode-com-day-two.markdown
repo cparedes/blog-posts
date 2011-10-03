@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Linode.com: Day Two"
+comments: true
 post_id: "212"
 categories:
 - Arch Linux

@@ -1,5 +1,6 @@
 ---
 title: Chef as a system integration tool, with a few examples.
+comments: true
 layout: post
 published: true
 categories:

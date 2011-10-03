@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Good shit(s)
+comments: true
 post_id: "346"
 categories:
 - Job
